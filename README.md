@@ -37,7 +37,7 @@ Cosmetics Supplier Chain Analysis and Dashboard Creation
 ### Description:
 This project not only demonstrated my technical proficiency in data analysis and visualization but also highlighted my ability to translate complex data into actionable insights that drive operational improvements.
 
-![alt text](image.jpg)
+![alt text](image.jpg) 
 
 ### Key Achievements:
 Collaborated seamlessly with cross-functional teams, including procurement, logistics, and finance, to ensure alignment of objectives and facilitate data-driven decision-making across departments. Tailored visualizations in Power BI to meet specific business requirements, providing a comprehensive view of the supply chain process, from order placement to product delivery.
