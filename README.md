@@ -10,6 +10,8 @@ Superstore Data Analysis and Dashboard Creation
 ### Description:
 As a Data Analyst, I worked on a project focused on enhancing decision-making processes for a nationwide superstore chain operating across all states in the United States. Leveraging my expertise, I meticulously curated an interactive dashboard using Power BI, combining data cleaning, merging, and advanced visualization techniques.
 
+![alt text](image.jpg)
+
 ### Key Achievements:
 
 Data Cleaning and Integration: Conducted comprehensive data cleaning and integration, ensuring the accuracy and coherence of the dataset.
