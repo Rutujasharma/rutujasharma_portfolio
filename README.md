@@ -37,7 +37,13 @@ Cosmetics Supplier Chain Analysis and Dashboard Creation
 ### Description:
 This project not only demonstrated my technical proficiency in data analysis and visualization but also highlighted my ability to translate complex data into actionable insights that drive operational improvements.
 
-01 Project 2_Supplier chain_all.png ![alt text](image.jpg) 
+<img width="1247" alt="01 Project 2_Supplier chain_all" src="https://github.com/Rutujasharma/rutujasharma_portfolio/assets/150735957/653a5cc5-f79b-495f-ab6b-97412b012467">
+
+<img width="1248" alt="02 Project 2_Supplier chain_Cosmetics" src="https://github.com/Rutujasharma/rutujasharma_portfolio/assets/150735957/5361081d-d567-44d3-b5c3-9dc1d8a4bd1c">
+
+<img width="1246" alt="03 Project 2_Supplier chain_Haircare" src="https://github.com/Rutujasharma/rutujasharma_portfolio/assets/150735957/61bad6a0-cb78-4ede-a882-b1240f468139">
+
+<img width="1247" alt="04 Project 2_Supplier chain_Skincare" src="https://github.com/Rutujasharma/rutujasharma_portfolio/assets/150735957/7b1eec20-d587-4f11-bbe6-b66a496e4376">
 
 ### Key Achievements:
 Collaborated seamlessly with cross-functional teams, including procurement, logistics, and finance, to ensure alignment of objectives and facilitate data-driven decision-making across departments. Tailored visualizations in Power BI to meet specific business requirements, providing a comprehensive view of the supply chain process, from order placement to product delivery.
