@@ -10,7 +10,15 @@ Superstore Data Analysis and Dashboard Creation
 ### Description:
 As a Data Analyst, I worked on a project focused on enhancing decision-making processes for a nationwide superstore chain operating across all states in the United States. Leveraging my expertise, I meticulously curated an interactive dashboard using Power BI, combining data cleaning, merging, and advanced visualization techniques.
 
-![alt text](image.jpg)
+<img width="1247" alt="Project 1_Superstore based in US" src="https://github.com/Rutujasharma/rutujasharma_portfolio/assets/150735957/2a68cef5-a577-4f85-9a99-308d9f85f6c0">
+
+
+<img width="1246" alt="Project 1_Superstore based in US_furniture" src="https://github.com/Rutujasharma/rutujasharma_portfolio/assets/150735957/b444d1a6-83cd-44d7-8284-e817cb746206">
+
+<img width="1246" alt="Project 1_Superstore based in US_office supplies" src="https://github.com/Rutujasharma/rutujasharma_portfolio/assets/150735957/78e27bfc-acb7-4721-b898-bee1e5ed8061">
+
+<img width="1246" alt="Project 1_Superstore based in US_technology" src="https://github.com/Rutujasharma/rutujasharma_portfolio/assets/150735957/9c7b5e83-8363-4923-a2da-7e14bf9abc0c">
+
 
 ### Key Achievements:
 
